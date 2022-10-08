@@ -1,4 +1,4 @@
-# Etapa_Angula_12
+# Etapa_Angular_12
 (a) Conceito - Angular e TypeScript
 (b) Data Binding
 (c) Componente - Comunicação e Ciclo de Vida

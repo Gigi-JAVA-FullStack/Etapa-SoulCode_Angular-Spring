@@ -1,4 +1,4 @@
-# Etapa_ANGULAR_SPRING
+# Etapa_Angular-Spring
 (a) Conceito - Angular e TypeScript
 (b) Data Binding
 (c) Componente - Comunicação e Ciclo de Vida
